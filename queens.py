@@ -4,14 +4,9 @@ Created on Fri Oct 23 01:24:23 2020
 
 @author: Edward Yip
 """
-
-
 import math
 import numpy as np
 import pygame
-
-
-
 
 ALPH = ["a","b","c","d","e","f","g","h","i","j"]
 NUM = [1,2,3,4,5,6,7,8,9,0]
