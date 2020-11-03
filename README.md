@@ -1,2 +1,2 @@
 # N-Queens
-A visual representation of how a backtracking algorithm works using PyGame on the N-Queens puzzle
+A PyGame visual representation of how a backtracking algorithm works solving the N-Queens puzzle.
