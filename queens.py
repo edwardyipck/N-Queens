@@ -15,7 +15,7 @@ import pygame
 
 ALPH = ["a","b","c","d","e","f","g","h","i","j"]
 NUM = [1,2,3,4,5,6,7,8,9,0]
-QUEENIMG = pygame.image.load("qee2.png")
+QUEENIMG = pygame.image.load("queen.png")
 
 def queens(position, size):
     global allstep
