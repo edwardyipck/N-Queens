@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 23 01:24:23 2020
-
-@author: Edward Yip
-"""
 import math
 import numpy as np
 import pygame
