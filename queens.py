@@ -1,4 +1,3 @@
-import math
 import numpy as np
 import pygame
 
@@ -148,6 +147,7 @@ FR_THREE = pygame.event.Event(framethree)
 
 game_exit = False
 pygame.init()
+pygame.event.clear()
 pygame.event.post(FR_ZERO)
 
 while not game_exit:
